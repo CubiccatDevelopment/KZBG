@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9d23475cecae1a447a40d616a7101516
+timeCreated: 1496337492
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Upheaval Pro
+  fontNames:
+  - Upheaval Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
